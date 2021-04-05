@@ -1,0 +1,18 @@
+Country	Transactrion
+Trinidad and Tobago	321
+Guinea	318
+Cape Verde	315
+Maldives	311
+Finland	310
+Democratic Republic of the Congo	308
+Samoa 	306
+Malta	305
+China	303
+France	303
+
+The country we should build our shipping center is Cape Verde because it has more transaction than Maldives where we had already got a shipping center in
+We can also build our shipping center in the rest country below Maldives since the gap in transactions is small
+ OnlineSalses        : 25034
+ OfflineSalses       : 24966
+Base on the statistic above, the online order is more than offline which we should take more online order than offline.
+However, because the gap is not so big, offline order still be necessary.
